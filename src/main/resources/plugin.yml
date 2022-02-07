@@ -1,5 +1,5 @@
 name: hChat
-version: '${project.version}'
+version: 1.0
 main: me.adversing.hchat.HChat
 authors: [ Adversing ]
 description: An hypixel-styled chat management plugin.
