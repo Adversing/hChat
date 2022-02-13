@@ -1,0 +1,14 @@
+#the link to be displayed on the message as soon as a player tries to swear.
+rulesLink: "https://hypixel.net/rules/"
+
+ALERTS:
+  #If set on 'true' this variable will let you know when a normal player tries to swear.
+  NOTIFY_WHENEVER_A_PLAYER_TRIES_TO_SWEAR: true
+  #If set on 'true' this variable will let you know when a Staff Member with the bypass permission tries to swear.
+  NOTIFY_WHENEVER_A_STAFF_MEMBER_TRIES_TO_SWEAR: true
+
+blockedWords:
+  - "nigger"
+  - "nigga"
+  - "fuck off"
+  - "stfu"
