@@ -14,12 +14,12 @@ hChat has various commands to display the list of the banned words, and other co
 > More coming soon...
 
 ## Permissions
-> hchat.staff
-> hchat.bypass
-> hchat.commands.addblockedword
-> hchat.commands.blockedwordslist
-> hchat.commands.checkword
-> hchat.commands.deleteblockedword
-> hchat.commands.togglechatalerts
+* hchat.staff
+* hchat.bypass
+* hchat.commands.addblockedword
+* hchat.commands.blockedwordslist
+* hchat.commands.checkword
+* hchat.commands.deleteblockedword
+* hchat.commands.togglechatalerts
 
 
