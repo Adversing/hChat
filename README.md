@@ -1,4 +1,4 @@
- # hChat
+ # hChat (v1.4)
 An Hypixel-styled chat management plugin (1.7.10+)
 
 ## 🔏 Features
@@ -10,6 +10,9 @@ With this plugin you'll see as soon as a player tries to swear (even if they hav
 
 > **Chat-related management Commands**:
 hChat has various commands to display the list of the banned words, and other commands to edit it. This plugin has also a command to toggle your chat alerts!
+
+> **Chat Cooldown**:
+hChat now owns his own chat cooldown system, with related permissions and editable settings!
 
 > More coming soon...
 
