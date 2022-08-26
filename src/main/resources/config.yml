@@ -1,0 +1,32 @@
+#the link to be displayed on the message as soon as a player tries to swear.
+rulesLink: "https://hypixel.net/rules/"
+
+ALERTS:
+  #If set on 'true' this variable will let you know when a normal player tries to swear.
+  NOTIFY_WHENEVER_A_PLAYER_TRIES_TO_SWEAR: true
+  #If set on 'true' this variable will let you know when a Staff Member with the bypass permission tries to swear.
+  NOTIFY_WHENEVER_A_STAFF_MEMBER_TRIES_TO_SWEAR: true
+
+# If set on 'true' it will send you a message whenever you join telling you if you have the chat alerts toggled or not
+onJoinNotification: true
+
+COOLDOWN:
+  MESSAGE:
+    - "&6&m-----------------------------------"
+    - "&cYou can only chat once every %time% seconds! Ranked users bypass this restriction!"
+    - "&6&m-----------------------------------"
+  STAFF:
+    BYPASS_PERMISSION: "hchat.cooldown.staff"
+    VALUE: 0
+  VIP:
+    BYPASS_PERMISSION: "hchat.cooldown.vip"
+    VALUE: 0
+  DEFAULT:
+    VALUE: 3000
+
+#Self-explanatory
+blockedWords:
+  - "these"
+  - "words"
+  - "are"
+  - "blocked"

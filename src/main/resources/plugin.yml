@@ -1,0 +1,5 @@
+name: hChat
+version: ${project.version}
+main: me.adversing.hchat.HChat
+authors: [ Adversing ]
+description: ${project.description}
